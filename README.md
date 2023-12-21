@@ -12,6 +12,10 @@ In the context of vehicle navigation on a circuit, the state space represents al
 
 The algorithm takes into consideration the circuit's layout and the vehicle's dynamic properties to calculate the ICS Set. By analyzing the vehicle's motion model and the circuit's geometry, the algorithm identifies regions where collision is inevitable if the vehicle follows its current trajectory.
 
+https://github.com/nicolazande/acv-minkowski-particle/assets/115359494/0d84f5b2-0426-4b9c-8dd2-f9cd2988a283
+
+
+
 ## Usage
 
 To use this algorithm, follow these steps:
